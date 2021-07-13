@@ -1,18 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=merko)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=gruvbox)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=onedark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=cobalt)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=synthwave)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=highcontrast)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybcr&show_icons=true&count_private=true&theme=dracula)
 
 
